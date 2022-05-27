@@ -1,3 +1,4 @@
+#program to find extension of given file name
 name=input("Enter Filename:")
 for i in range(0,len(name)):
     if(name[i]=="."):
